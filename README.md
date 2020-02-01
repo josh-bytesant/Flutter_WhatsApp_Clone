@@ -1,3 +1,6 @@
-# flutterwhatsapp
+# Flutter WhatsApp Clone
 
-![Alt text](assets/screenshoot.png?raw=true "Screenshot of app")
+WhatsApp clone mobile application (iOS/Android) using Flutter
+
+
+<img src="../master/assets/screenshot-b.png"  alt="screenshot">
